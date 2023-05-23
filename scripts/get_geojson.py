@@ -1,6 +1,6 @@
 import json
 
-FILEPATH = '../portugal_full.geojson'
+FILEPATH = '../source_geojson/portugal_full.geojson'
 
 fp = open(FILEPATH, 'r')
 geojson = json.load(fp)
