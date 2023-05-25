@@ -1,307 +1,309 @@
-City;Hospitals;Fire stations;Police stations;Railway stations
-Abrantes;2;1;5;4
-Aguiar da Beira;0;1;1;0
-Alandroal;0;1;3;0
-Albergaria-a-Velha;0;2;1;0
-Albufeira;1;1;10;1
-Alcanena;0;2;2;0
-Alcobaça;1;4;7;4
-Alcochete;0;1;2;0
-Alcoutim;0;1;2;0
-Alcácer do Sal;0;2;4;2
-Alenquer;2;2;4;0
-Alfândega da Fé;0;1;1;0
-Alijó;1;4;2;1
-Aljezur;0;2;3;0
-Aljustrel;0;1;2;0
-Almada;5;4;13;17
-Almeida;2;1;6;2
-Almeirim;0;1;1;0
-Almodôvar;0;1;2;0
-Alpiarça;0;1;1;0
-Alter do Chão;0;0;1;1
-Alvaiázere;1;1;1;0
-Alvito;0;1;1;1
-Amadora;3;1;10;8
-Amarante;4;2;3;2
-Amares;2;1;2;0
-Anadia;2;1;3;2
-Angra do Heroísmo;1;3;3;0
-Ansião;1;1;1;0
-Arcos de Valdevez;1;1;1;0
-Arganil;1;4;1;0
-Armamar;0;1;1;0
-Arouca;1;1;1;0
-Arraiolos;0;1;2;0
-Arronches;0;2;1;0
-Arruda dos Vinhos;2;1;1;0
-Aveiro;1;5;5;3
-Avis;0;1;1;0
-Azambuja;0;2;2;2
-Baião;0;1;1;6
-Barcelos;3;5;2;2
-Barrancos;0;1;1;0
-Barreiro;1;1;6;3
-Batalha;1;2;1;0
-Beja;1;2;6;1
-Belmonte;0;0;3;1
-Benavente;0;3;1;0
-Bombarral;0;2;1;1
-Borba;0;1;1;0
-Boticas;0;0;1;0
-Braga;9;2;8;4
-Bragança;2;1;4;0
-Cabeceiras de Basto;0;1;1;0
-Cadaval;1;1;1;0
-Caldas da Rainha;8;1;3;1
-Calheta;0;1;1;0
-Caminha;0;4;6;1
-Campo Maior;0;1;1;0
-Cantanhede;2;2;4;0
-Carrazeda de Ansiães;0;1;1;3
-Carregal do Sal;0;3;1;2
-Cartaxo;0;1;2;1
-Cascais;12;5;16;7
-Castanheira de Pêra;0;1;1;0
-Castelo Branco;2;3;11;3
-Castelo de Paiva;1;1;1;0
-Castelo de Vide;0;1;1;0
-Castro Daire;0;2;1;0
-Castro Marim;0;0;2;0
-Castro Verde;0;1;1;0
-Celorico da Beira;0;0;1;1
-Celorico de Basto;0;1;1;1
-Chamusca;0;1;1;0
-Chaves;2;3;5;0
-Cinfães;5;4;2;0
-Coimbra;11;2;9;4
-Condeixa-a-Nova;1;2;1;0
-Constância;0;3;1;1
-Coruche;2;1;3;0
-Corvo;0;1;3;0
-Covilhã;2;3;7;5
-Crato;0;1;2;1
-Cuba;0;1;2;1
-Câmara de Lobos;0;2;1;0
-Elvas;1;1;7;1
-Entroncamento;3;1;1;1
-Espinho;1;3;2;5
-Esposende;3;2;3;0
-Estarreja;1;1;2;4
-Estremoz;0;1;4;0
-Fafe;1;1;3;0
-Faro;2;0;1;0
-Felgueiras;1;4;3;0
-Ferreira do Alentejo;0;1;2;0
-Ferreira do Zêzere;0;1;1;0
-Figueira da Foz;1;3;9;3
-Figueira de Castelo Rodrigo;1;1;3;1
-Figueiró dos Vinhos;0;1;1;0
-Fornos de Algodres;0;1;1;1
-Freixo de Espada à Cinta;0;1;1;0
-Fronteira;0;1;3;0
-Funchal;2;2;5;0
-Fundão;0;4;4;4
-Gavião;0;1;1;1
-Golegã;0;1;1;0
-Gondomar;3;5;6;7
-Gouveia;0;4;3;0
-Grândola;0;2;4;1
-Guarda;2;4;7;2
-Guimarães;2;3;4;4
-Góis;0;2;1;0
-Horta;1;3;5;0
-Idanha-a-Nova;1;2;6;0
-Lagoa;0;0;2;1
-Lagos;2;1;7;1
-Lajes das Flores;0;1;2;0
-Lajes do Pico;0;1;1;0
-Lamego;1;1;2;0
-Leiria;3;7;9;2
-Lisboa;38;22;59;64
-Loulé;1;1;7;4
-Loures;3;6;9;3
-Lourinhã;0;1;2;0
-Lousada;2;1;1;2
-Lousã;1;2;1;0
-Macedo de Cavaleiros;1;1;2;1
-Machico;0;1;3;0
-Madalena;0;1;1;0
-Mafra;0;2;5;2
-Maia;2;5;6;12
-Mangualde;0;1;1;3
-Manteigas;0;1;1;0
-Marco de Canaveses;1;1;3;3
-Marinha Grande;0;2;5;1
-Marvão;0;1;2;0
-Matosinhos;3;4;8;19
-Mação;0;2;1;0
-Mealhada;0;3;1;2
-Melgaço;2;1;1;0
-Mesão Frio;0;1;1;3
-Mira;1;1;2;0
-Miranda do Corvo;0;1;1;0
-Miranda do Douro;0;2;2;0
-Mirandela;2;2;4;0
-Mogadouro;3;1;1;0
-Moimenta da Beira;0;1;1;0
-Moita;0;1;2;4
-Monchique;0;4;1;0
-Mondim de Basto;1;1;1;0
-Monforte;0;1;1;0
-Montalegre;0;2;2;0
-Montemor-o-Novo;2;1;5;1
-Montemor-o-Velho;0;1;1;3
-Montijo;2;2;4;1
-Monção;0;2;2;0
-Mora;0;1;4;0
-Mortágua;0;1;1;1
-Moura;0;2;6;0
-Mourão;0;1;3;0
-Murtosa;0;1;1;0
-Murça;1;1;1;0
-Mértola;0;1;2;0
-Mêda;0;1;1;0
-Nazaré;1;1;4;1
-Nelas;0;3;2;2
-Nisa;0;1;2;0
-Nordeste;0;1;1;0
-Odemira;0;2;7;2
-Odivelas;1;3;6;2
-Oeiras;3;6;10;7
-Oleiros;0;1;1;0
-Olhão;0;3;5;3
-Oliveira de Azeméis;1;4;3;1
-Oliveira de Frades;0;1;1;0
-Oliveira do Bairro;0;1;2;2
-Oliveira do Hospital;2;2;1;0
-Ourique;0;0;2;1
-Ourém;0;5;3;1
-Ovar;1;4;4;5
-Palmela;0;4;4;6
-Pampilhosa da Serra;0;3;1;0
-Paredes de Coura;0;1;1;0
-Paredes;1;7;5;6
-Paços de Ferreira;0;1;3;0
-Pedrógão Grande;0;1;1;0
-Penacova;0;1;1;0
-Penafiel;1;3;3;4
-Penalva do Castelo;1;0;1;0
-Penamacor;0;1;1;0
-Penedono;0;1;1;0
-Penela;1;2;1;0
-Peniche;1;1;4;0
-Peso da Régua;1;1;2;4
-Pinhel;0;1;4;1
-Pombal;1;4;3;4
-Ponta Delgada;0;2;2;0
-Ponta do Sol;0;0;2;0
-Ponte da Barca;3;2;1;0
-Ponte de Lima;3;2;4;0
-Ponte de Sôr;0;1;3;2
-Portalegre;1;3;3;1
-Portel;0;1;1;0
-Portimão;3;1;6;2
-Porto Moniz;0;1;1;0
-Porto Santo;0;0;2;0
-Porto de Mós;1;4;2;0
-Porto;21;4;31;29
-Povoação;0;1;2;0
-Praia da Vitória;0;2;7;0
-Proença-a-Nova;0;1;1;0
-Póvoa de Lanhoso;2;1;1;0
-Póvoa de Varzim;3;2;4;1
-Redondo;0;1;1;0
-Reguengos de Monsaraz;0;1;2;0
-Resende;0;0;1;0
-Ribeira Brava;0;1;1;0
-Ribeira Grande;0;2;2;0
-Ribeira de Pena;1;2;4;0
-Rio Maior;2;1;1;0
-Sabrosa;0;2;1;1
-Sabugal;0;4;2;1
-Salvaterra de Magos;0;1;3;0
-Santa Comba Dão;0;1;1;1
-Santa Cruz da Graciosa;0;1;1;0
-Santa Cruz das Flores;0;0;2;0
-Santa Cruz;0;3;4;0
-Santa Maria da Feira;2;3;8;2
-Santa Marta de Penaguião;0;1;1;0
-Santana;0;0;0;0
-Santarém;4;6;4;5
-Santiago do Cacém;1;3;5;3
-Santo Tirso;3;2;5;2
-Sardoal;0;1;1;0
-Seia;2;3;4;0
-Seixal;1;4;8;6
-Sernancelhe;0;1;1;0
-Serpa;1;1;5;0
-Sertã;0;3;3;0
-Sesimbra;0;3;3;0
-Setúbal;5;3;9;4
-Sever do Vouga;0;1;1;1
-Silves;0;3;4;5
-Sines;0;5;0;0
-Sintra;0;0;0;0
-Sobral de Monte Agraço;0;1;1;1
-Soure;1;2;1;1
-Sousel;0;1;2;0
-Sátão;0;1;2;0
-São Brás de Alportel;0;1;1;0
-São João da Madeira;1;2;3;1
-São João da Pesqueira;0;1;1;2
-São Pedro do Sul;0;4;1;0
-São Roque do Pico;0;1;1;0
-São Vicente;0;1;2;0
-Tabuaço;0;0;1;0
-Tarouca;0;1;1;0
-Tavira;0;1;4;1
-Terras de Bouro;2;2;2;0
-Tomar;2;1;3;6
-Tondela;0;3;3;0
-Torre de Moncorvo;0;1;1;0
-Torres Novas;1;2;2;2
-Torres Vedras;4;4;4;4
-Trancoso;2;1;2;1
-Trofa;1;1;2;3
-Tábua;0;1;1;0
-Vagos;0;2;1;0
-Vale de Cambra;0;1;1;0
-Valença;0;1;2;2
-Valongo;3;2;4;5
-Valpaços;1;2;3;0
-Velas;0;1;1;0
-Vendas Novas;0;2;2;1
-Viana do Alentejo;0;1;2;0
-Viana do Castelo;3;3;11;5
-Vidigueira;0;1;1;0
-Vieira do Minho;2;4;4;0
-Vila Flor;0;1;1;0
-Vila Franca de Xira;1;8;7;7
-Vila Franca do Campo;0;1;1;0
-Vila Nova da Barquinha;0;2;1;3
-Vila Nova de Cerveira;1;1;1;1
-Vila Nova de Famalicão;4;4;5;4
-Vila Nova de Foz Côa;1;1;2;3
-Vila Nova de Gaia;8;9;11;14
-Vila Nova de Paiva;1;1;2;0
-Vila Nova de Poiares;0;0;1;0
-Vila Pouca de Aguiar;0;2;2;0
-Vila Real de Santo António;1;2;4;2
-Vila Real;3;4;6;0
-Vila Velha de Ródão;0;0;1;3
-Vila Verde;1;2;3;0
-Vila Viçosa;0;1;3;0
-Vila de Rei;0;2;2;0
-Vila do Bispo;0;1;2;0
-Vila do Conde;3;3;5;14
-Vila do Porto;0;1;2;0
-Vimioso;0;0;2;0
-Vinhais;0;2;2;0
-Viseu;5;4;4;0
-Vizela;1;1;1;1
-Vouzela;2;3;1;0
-Águeda;1;2;2;3
-Évora;3;1;10;1
-Ílhavo;0;2;4;0
-Óbidos;0;1;2;0
+City;Hospitals;Fire stations;Police stations;Railway stations;Total PoIs;Types of PoIs
+Abrantes;2;1;5;4;12
+Aguiar da Beira;0;1;1;0;2
+Alandroal;0;1;3;0;4
+Albergaria-a-Velha;0;2;1;0;3
+Albufeira;0;0;2;0;2
+Alcanena;0;2;2;0;4
+Alcobaça;1;4;7;4;16
+Alcochete;0;1;2;0;3
+Alcoutim;0;1;2;0;3
+Alcácer do Sal;0;2;4;3;9
+Alenquer;2;2;4;0;8
+Alfândega da Fé;0;1;1;0;2
+Alijó;1;4;2;1;8
+Aljezur;0;2;3;0;5
+Aljustrel;0;1;2;0;3
+Almada;5;4;13;17;39
+Almeida;2;1;6;2;11
+Almeirim;0;1;1;0;2
+Almodôvar;0;1;2;0;3
+Alpiarça;0;1;1;0;2
+Alter do Chão;0;0;1;1;2
+Alvaiázere;1;1;1;0;3
+Alvito;0;1;1;1;3
+Amadora;3;1;10;8;22
+Amarante;4;2;3;2;11
+Amares;2;1;2;0;5
+Anadia;2;1;3;2;8
+Angra do Heroísmo;1;3;3;0;7
+Ansião;1;1;1;0;3
+Arcos de Valdevez;1;1;1;0;3
+Arganil;1;4;1;0;6
+Armamar;0;1;1;0;2
+Arouca;1;1;1;0;3
+Arraiolos;0;1;2;0;3
+Arronches;0;2;1;0;3
+Arruda dos Vinhos;2;1;1;0;4
+Aveiro;2;5;7;4;18
+Avis;0;1;1;0;2
+Azambuja;0;2;2;2;6
+Baião;0;1;1;6;8
+Barcelos;3;5;2;2;12
+Barrancos;0;1;1;0;2
+Barreiro;1;2;6;4;13
+Batalha;1;2;1;0;4
+Beja;1;2;6;1;10
+Belmonte;0;0;3;1;4
+Benavente;0;3;1;0;4
+Bombarral;0;2;1;1;4
+Borba;0;1;1;0;2
+Boticas;0;0;1;0;1
+Braga;9;2;8;4;23
+Bragança;2;1;4;0;7
+Cabeceiras de Basto;0;1;1;0;2
+Cadaval;1;1;1;0;3
+Caldas da Rainha;8;1;3;1;13
+Calheta de São Jorge;0;1;1;0;2
+Calheta;0;1;1;0;2
+Caminha;0;4;6;1;11
+Campo Maior;0;1;1;0;2
+Cantanhede;2;2;4;0;8
+Carrazeda de Ansiães;0;1;1;3;5
+Carregal do Sal;0;3;1;2;6
+Cartaxo;0;1;2;1;4
+Cascais;16;5;17;7;45
+Castanheira de Pêra;0;1;1;0;2
+Castelo Branco;2;3;11;3;19
+Castelo de Paiva;1;1;1;0;3
+Castelo de Vide;0;1;1;0;2
+Castro Daire;0;2;1;0;3
+Castro Marim;0;0;2;0;2
+Castro Verde;0;1;1;0;2
+Celorico da Beira;0;0;1;1;2
+Celorico de Basto;0;1;1;1;3
+Chamusca;0;1;1;0;2
+Chaves;2;3;5;0;10
+Cinfães;5;4;2;0;11
+Coimbra;11;2;9;4;26
+Condeixa-a-Nova;1;2;1;0;4
+Constância;0;3;1;1;5
+Coruche;2;1;3;0;6
+Corvo;0;1;3;0;4
+Covilhã;2;3;7;5;17
+Crato;0;1;2;1;4
+Cuba;0;1;2;1;4
+Câmara de Lobos;0;2;1;0;3
+Elvas;1;1;7;1;10
+Entroncamento;3;1;1;1;6
+Espinho;1;3;2;5;11
+Esposende;3;2;3;0;8
+Estarreja;1;1;2;4;8
+Estremoz;0;1;4;0;5
+Fafe;1;1;3;0;5
+Faro;3;3;4;1;11
+Felgueiras;1;4;3;0;8
+Ferreira do Alentejo;0;1;2;0;3
+Ferreira do Zêzere;0;1;1;0;2
+Figueira da Foz;1;3;9;3;16
+Figueira de Castelo Rodrigo;1;1;3;1;6
+Figueiró dos Vinhos;0;1;1;0;2
+Fornos de Algodres;0;1;1;1;3
+Freixo de Espada à Cinta;0;1;1;0;2
+Fronteira;0;1;3;0;4
+Funchal;0;0;0;0;0
+Fundão;0;4;4;4;12
+Gavião;0;1;1;1;3
+Golegã;0;1;1;0;2
+Gondomar;3;5;6;7;21
+Gouveia;0;4;3;0;7
+Grândola;0;2;4;1;7
+Guarda;2;4;7;2;15
+Guimarães;2;3;4;4;13
+Góis;0;2;1;0;3
+Horta;1;3;6;0;10
+Idanha-a-Nova;1;2;6;0;9
+Lagoa - Açores;1;0;1;0;2
+Lagoa;0;1;1;0;2
+Lagos;1;0;4;0;5
+Lajes das Flores;0;1;2;0;3
+Lajes do Pico;0;1;1;0;2
+Lamego;1;1;2;0;4
+Leiria;3;7;9;2;21
+Lisboa;38;22;60;65;185
+Loulé;1;1;7;4;13
+Loures;3;7;8;3;21
+Lourinhã;0;1;2;0;3
+Lousada;2;1;1;2;6
+Lousã;1;2;1;0;4
+Macedo de Cavaleiros;1;1;2;1;5
+Machico;0;1;3;0;4
+Madalena;0;1;1;0;2
+Mafra;0;2;5;2;9
+Maia;2;5;6;12;25
+Mangualde;0;1;1;3;5
+Manteigas;0;1;1;0;2
+Marco de Canaveses;1;1;3;3;8
+Marinha Grande;0;2;5;1;8
+Marvão;0;1;2;0;3
+Matosinhos;3;4;8;19;34
+Mação;0;2;1;0;3
+Mealhada;0;3;1;2;6
+Melgaço;2;1;1;0;4
+Mesão Frio;0;1;1;3;5
+Mira;1;1;2;0;4
+Miranda do Corvo;0;1;1;0;2
+Miranda do Douro;0;2;2;0;4
+Mirandela;2;2;4;0;8
+Mogadouro;3;1;1;0;5
+Moimenta da Beira;0;1;1;0;2
+Moita;0;1;2;4;7
+Monchique;0;4;1;0;5
+Mondim de Basto;1;1;1;0;3
+Monforte;0;1;1;0;2
+Montalegre;0;2;2;0;4
+Montemor-o-Novo;2;1;5;1;9
+Montemor-o-Velho;0;1;1;3;5
+Montijo;2;2;4;1;9
+Monção;0;2;2;0;4
+Mora;0;1;4;0;5
+Mortágua;0;1;1;1;3
+Moura;0;2;6;0;8
+Mourão;0;1;3;0;4
+Murtosa;0;1;1;0;2
+Murça;1;1;1;0;3
+Mértola;0;1;2;0;3
+Mêda;0;1;1;0;2
+Nazaré;1;1;4;1;7
+Nelas;0;3;2;2;7
+Nisa;0;1;2;0;3
+Nordeste;0;1;1;0;2
+Odemira;0;2;7;2;11
+Odivelas;1;3;6;2;12
+Oeiras;3;6;10;7;26
+Oleiros;0;1;1;0;2
+Olhão;0;3;5;3;11
+Oliveira de Azeméis;1;4;3;1;9
+Oliveira de Frades;0;1;1;0;2
+Oliveira do Bairro;0;1;2;2;5
+Oliveira do Hospital;2;2;1;0;5
+Ourique;0;0;2;1;3
+Ourém;0;5;3;1;9
+Ovar;1;4;4;5;14
+Palmela;0;4;4;6;14
+Pampilhosa da Serra;0;3;1;0;4
+Paredes de Coura;0;1;1;0;2
+Paredes;1;7;5;6;19
+Paços de Ferreira;0;1;3;0;4
+Pedrógão Grande;0;1;1;0;2
+Penacova;0;1;1;0;2
+Penafiel;1;3;3;4;11
+Penalva do Castelo;1;0;1;0;2
+Penamacor;0;1;1;0;2
+Penedono;0;1;1;0;2
+Penela;1;2;1;0;4
+Peniche;1;1;4;0;6
+Peso da Régua;1;1;2;4;8
+Pinhel;0;1;4;1;6
+Pombal;1;4;3;4;12
+Ponta Delgada;1;3;6;0;10
+Ponta do Sol;0;0;2;0;2
+Ponte da Barca;3;2;1;0;6
+Ponte de Lima;3;2;4;0;9
+Ponte de Sor;0;1;3;2;6
+Portalegre;1;3;3;1;8
+Portel;0;1;1;0;2
+Portimão;3;1;6;2;12
+Porto Moniz;0;1;1;0;2
+Porto Santo;0;0;2;0;2
+Porto de Mós;1;4;2;0;7
+Porto;21;4;33;29;87
+Povoação;0;1;2;0;3
+Praia da Vitória;0;2;7;0;9
+Proença-a-Nova;0;1;1;0;2
+Póvoa de Lanhoso;2;1;1;0;4
+Póvoa de Varzim;3;2;4;1;10
+Redondo;0;1;1;0;2
+Reguengos de Monsaraz;0;1;2;0;3
+Resende;0;0;1;0;1
+Ribeira Brava;0;1;1;0;2
+Ribeira Grande;0;2;3;0;5
+Ribeira de Pena;1;2;4;0;7
+Rio Maior;2;1;1;0;4
+Sabrosa;0;2;1;1;4
+Sabugal;0;4;2;1;7
+Salvaterra de Magos;0;1;3;0;4
+Santa Comba Dão;0;1;1;1;3
+Santa Cruz da Graciosa;0;1;2;0;3
+Santa Cruz das Flores;0;0;2;0;2
+Santa Cruz;0;3;4;0;7
+Santa Maria da Feira;2;3;8;2;15
+Santa Marta de Penaguião;0;1;1;0;2
+Santana;0;0;0;0;0
+Santarém;4;6;4;5;19
+Santiago do Cacém;1;3;5;3;12
+Santo Tirso;3;2;5;2;12
+Sardoal;0;1;1;0;2
+Seia;2;3;4;0;9
+Seixal;1;4;8;6;19
+Sernancelhe;0;1;1;0;2
+Serpa;1;1;5;0;7
+Sertã;0;3;3;0;6
+Sesimbra;0;1;2;0;3
+Setúbal;5;2;9;4;20
+Sever do Vouga;0;1;1;1;3
+Silves;0;3;4;5;12
+Sines;0;0;0;0;0
+Sintra;0;0;0;0;0
+Sobral de Monte Agraço;0;1;1;1;3
+Soure;1;2;1;0;4
+Sousel;0;1;2;0;3
+Sátão;0;1;2;0;3
+São Brás de Alportel;0;1;1;0;2
+São João da Madeira;1;2;3;1;7
+São João da Pesqueira;0;1;1;2;4
+São Pedro do Sul;0;4;1;0;5
+São Roque do Pico;0;1;2;0;3
+São Vicente;0;1;2;0;3
+Tabuaço;0;0;1;0;1
+Tarouca;0;1;1;0;2
+Tavira;0;1;4;1;6
+Terras de Bouro;2;2;2;0;6
+Tomar;2;1;3;6;12
+Tondela;0;3;3;0;6
+Torre de Moncorvo;0;1;1;0;2
+Torres Novas;1;2;2;2;7
+Torres Vedras;4;4;4;4;16
+Trancoso;2;1;2;1;6
+Trofa;1;1;2;3;7
+Tábua;0;1;1;0;2
+Vagos;0;2;1;0;3
+Vale de Cambra;0;1;1;0;2
+Valença;0;1;2;2;5
+Valongo;3;2;4;5;14
+Valpaços;1;2;3;0;6
+Velas;0;1;3;0;4
+Vendas Novas;0;2;2;1;5
+Viana do Alentejo;0;1;2;0;3
+Viana do Castelo;3;3;11;5;22
+Vidigueira;0;1;1;0;2
+Vieira do Minho;2;4;4;0;10
+Vila Flor;0;1;1;0;2
+Vila Franca de Xira;1;7;7;6;21
+Vila Franca do Campo;0;1;1;0;2
+Vila Nova da Barquinha;0;2;1;3;6
+Vila Nova de Cerveira;1;1;1;1;4
+Vila Nova de Famalicão;4;4;5;4;17
+Vila Nova de Foz Côa;1;1;2;3;7
+Vila Nova de Gaia;8;9;11;14;42
+Vila Nova de Paiva;1;1;2;0;4
+Vila Nova de Poiares;0;0;1;0;1
+Vila Pouca de Aguiar;0;2;2;0;4
+Vila Real de Santo António;1;2;4;2;9
+Vila Real;3;4;6;0;13
+Vila Velha de Ródão;0;0;1;3;4
+Vila Verde;1;2;3;0;6
+Vila Viçosa;0;1;3;0;4
+Vila de Rei;0;2;2;0;4
+Vila do Bispo;0;0;1;0;1
+Vila do Conde;3;3;5;14;25
+Vila do Porto;0;1;2;0;3
+Vimioso;0;0;2;0;2
+Vinhais;0;2;2;0;4
+Viseu;5;4;4;0;13
+Vizela;1;1;1;1;4
+Vouzela;2;3;1;0;6
+Águeda;1;2;2;3;8
+Évora;3;1;10;1;15
+Ílhavo;0;2;4;0;6
+Óbidos;0;1;2;0;3
