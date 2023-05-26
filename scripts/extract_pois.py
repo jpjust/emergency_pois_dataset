@@ -72,7 +72,7 @@ for file in files:
     total_pois = hospitals + fire_stations + police_stations + railway_stations
     types_pois = (hospitals > 0) + (fire_stations > 0) + (police_stations > 0) + (railway_stations > 0)
 
-    csv_fp.write(f'{city};{hospitals};{fire_stations};{police_stations};{railway_stations};{total_pois}\n')
+    csv_fp.write(f'{city};{hospitals};{fire_stations};{police_stations};{railway_stations};{total_pois};{types_pois}\n')
 
     geojson['features'][0]['properties']['hospitals'] = hospitals
     geojson['features'][0]['properties']['fire_stations'] = fire_stations
